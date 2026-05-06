@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "0c46cecc806d78d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd92b7af1266e27a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "159d49e77eb3c61c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tickets/Ticket Index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ticket Index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f02902de6a34bb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdebb21df9e6882e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4faced7fa67017e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "babf5c2060996b55",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ca1847956ae514e0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a9b5ef940b0805ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "4eeee4ed44fe2c38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07080c52f9b998f0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Trade Log.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Trade Log"
+            }
+          },
+          {
+            "id": "6b00aeaef0210415",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Trade Log.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Trade Log"
+            }
+          },
+          {
+            "id": "629a8ce61f809c4f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9d96902bfdd22655",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f8bfa42c29105d28",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Trade Log.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Trade Log"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "159d49e77eb3c61c",
+  "lastOpenFiles": [
+    "Tickets/alpha-scanner/ALS-001.md",
+    "Tickets/alpha-scanner/ALS-002.md",
+    "Tickets/trigger-ingestion-system/TIS-003.md",
+    "Tickets/trigger-ingestion-system/TIS-011.md",
+    "Tickets/trigger-ingestion-system/TIS-010.md",
+    "Tickets/trigger-ingestion-system/TIS-009.md",
+    "Strategies/Elastic Catalyst-Pump Fade Framework.md",
+    "Tickets/telegram-mcp-server/TMS-005.md",
+    "Tickets/trigger-ingestion-system/TIS-002.md",
+    "Tickets/trigger-ingestion-system/TIS-001.md",
+    "Tickets/aws-deployment-framework/ADF-005.md",
+    "Tickets/aws-deployment-framework/ADF-012.md",
+    "Tickets/aws-deployment-framework/ADF-011.md",
+    "Tickets/aws-deployment-framework/ADF-010.md",
+    "Tickets/aws-deployment-framework/ADF-009.md",
+    "Tickets/aws-deployment-framework/ADF-008.md",
+    "Tickets/aws-deployment-framework/ADF-004.md",
+    "Tickets/binance-position-tools/BDS-020.md",
+    "Tickets/aws-deployment-framework/ADF-006.md",
+    "Tickets/aws-deployment-framework/ADF-007.md",
+    "Tickets/aws-deployment-framework/ADF-003.md",
+    "Tickets/aws-deployment-framework/ADF-002.md",
+    "Tickets/aws-deployment-framework/ADF-001.md",
+    "Projects/binance-data-collector/Overview.md",
+    "daily/2026-05-04.md",
+    "daily/2026-05-03.md",
+    "Projects/binance-data-collector",
+    "Projects/DT-5483 Customer Data Retention",
+    "Projects/DT-4306 GenAI POC/backlog",
+    "Projects/DT-4306 GenAI POC",
+    "Tickets/idea-discovery-service",
+    "Tickets/trigger-ingestion-system",
+    "Projects/telegram-mcp-server",
+    "Projects",
+    "untitled folder",
+    "telegram-mcp-server"
+  ]
+}
